@@ -1,0 +1,7 @@
+Flask==1.1.1
+gunicorn
+scikit.learn
+matplotlib == 3.2.2
+seaborn
+numpy
+pandas
